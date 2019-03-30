@@ -4,7 +4,7 @@
 ### 如何使用
 - 拷贝fontawesome-free-x.x.x.wsxx到小程序根目录
 - 在app.wxss添加 ```@import "fontawesome-free-x.x.x.wsxx";```
-- 在wxml中添加代码 ```<i class="fab fa-creative-commons-nd fa-lg margin-lr-sm"></i>```
+- 在wxml中添加代码 ```<i class="fab fa-github"></i>```
 
 ### 资源
 - [fontawesome官网](https://fontawesome.com)
